@@ -1,6 +1,6 @@
 token=NTczOTE0NjAyMDM5OTM0OTg2.XMxyKA.LZwox6IR6dL6DLBX4A19vpo8SRQ
 owner=368007427250978816 
 prefix=9
-game=9help
-stayinchannel=true
-songinstatus=true
+game=Type 9help
+stayinchannel=false
+songinstatus=false
